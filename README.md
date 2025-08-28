@@ -27,7 +27,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehakgarg007" height="30" width="40" />
 </a>
 <a href="https://discord.com/users/1386965159620251648" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" height="30" width="30" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="30" width="30" />
 </a>
 </p>
 
