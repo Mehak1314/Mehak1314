@@ -51,3 +51,7 @@
 - **Personal Email:** mehakgarg0070@gmail.com  
 - **College Email:** mgarg3_be24@thapar.edu  
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mehak1314&label=Profile%20views&color=0e75b6&style=flat)  
+
