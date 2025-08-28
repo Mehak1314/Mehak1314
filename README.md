@@ -53,5 +53,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mehak1314&label=Profile%20views&color=0e75b6&style=flat)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mehak1314&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p> 
 
