@@ -26,6 +26,9 @@
 <a href="https://linkedin.com/in/mehakgarg007" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehakgarg007" height="30" width="40" />
 </a>
+<a href="https://discord.com/users/1386965159620251648" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="mehak_007" height="30" width="40" />
+</a>
 </p>
 
 ---
