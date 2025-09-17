@@ -13,11 +13,12 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  
-![Mehak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehak1314&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=7200)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak1314&layout=compact&hide_border=true&theme=radical&cache_seconds=7200)  
+
+![Mehak's GitHub stats](https://github-readme-stats-mehak1314.vercel.app/api?username=Mehak1314&show_icons=true&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats-mehak1314.vercel.app/api/top-langs/?username=Mehak1314&layout=compact&hide_border=true&theme=radical)  
 
 </div>
+
 
 ---
 
