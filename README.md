@@ -15,6 +15,7 @@
 <div align="center">
   
 ![Mehak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehak1314&show_icons=true&hide_border=true&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api?username=Mehak1314&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" alt="Mehak's GitHub stats" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehak1314&layout=compact&hide_border=true&theme=radical)  
 
 </div>
